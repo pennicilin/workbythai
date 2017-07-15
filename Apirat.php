@@ -1,3 +1,3 @@
 <?php 
-	echo 'Apirat Pakakaew New';
+	echo 'Apirat Pakakaew New VI';
 ?>
